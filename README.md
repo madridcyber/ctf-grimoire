@@ -4,7 +4,7 @@
 
 *Every flag captured is a Gu refined. Every writeup is a page in the grimoire.*
 
-<img src="https://img.shields.io/badge/flags%20captured-loading...-00ff41?style=flat-square" alt="flags" />
+<img src="https://img.shields.io/badge/flags%20captured-4-00ff41?style=flat-square" alt="flags" />
 <img src="https://img.shields.io/badge/rank-Adept%20🔥-0d1117?style=flat-square" alt="rank" />
 
 </div>
@@ -12,6 +12,15 @@
 ## 📖 What is this?
 
 My personal collection of **CTF writeups and battle records** — documenting every challenge I solve on the path from Adept to Grandmaster.
+
+## 📜 Battle Records
+
+| Challenge | Platform | Category | Difficulty |
+|---|---|---|---|
+| [Cookies](./2026/picoCTF/web-cookies.md) | picoCTF | 🌐 Web | ⭐ |
+| [Mod 26](./2026/picoCTF/crypto-mod26.md) | picoCTF | 🔐 Crypto | ⭐ |
+| [information](./2026/picoCTF/forensics-information.md) | picoCTF | 🧬 Forensics | ⭐⭐ |
+| [Bandit 14→15](./2026/OverTheWire/bandit-level-15.md) | OverTheWire | 📡 Network | ⭐⭐ |
 
 ## 🗂️ Structure
 
